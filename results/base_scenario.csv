@@ -1,0 +1,2 @@
+scenario,correlation,forced_node,n_runs,n_failed,n_no_fail,mean,sem,std,median,lower,upper
+base,0.99,A1,1000,1000,0,910.06,28.14,889.89,619.00,34.00,3410.00

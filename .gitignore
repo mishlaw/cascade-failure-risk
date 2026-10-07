@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# виртуальные окружения
+.venv/
+venv/
+env/
+
+# сборка exe (PyInstaller)
+build/
+dist/
+*.spec
+*.exe
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.pyproj
+*.suo
+
+# временные файлы Excel и ОС
+~$*.xlsx
+.DS_Store
+Thumbs.db
